@@ -34,10 +34,17 @@ body {
 }
 
 .geral {
-    background-color: #d1d1d1;
+    background-color: #357ba0;
     border: 0px;
-    color: #191b1c;
     
+
+}
+
+.geral2 {
+    background-color: #36a736;
+    border: 0px;
+    
+
 }
 
 .zapzapcolor {
